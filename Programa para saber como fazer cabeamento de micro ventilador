@@ -4,7 +4,7 @@
 int main(){
 
 int voltagem;
-string maquina;
+string maquina(9)[];
 int tamanho;
 
 printf("Digite a voltagem da sua maquina 110 ou 220: ");
